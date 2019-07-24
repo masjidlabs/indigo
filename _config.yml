@@ -8,7 +8,7 @@ description: looking forward to reshape the masjid IT industry
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://unsplash.com/photos/kNSREmtaGOE
+picture: https://images.unsplash.com/photo-1527838832700-5059252407fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExNjMwfQ&auto=format&fit=crop&w=643&q=80
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,7 +58,7 @@ authors:
         name: Masjid Labs
         bio:  Open Source Masjid Solutions
         external-image: true
-        picture: https://unsplash.com/photos/oR9ZisoF_NE
+        picture: https://images.unsplash.com/photo-1527838832700-5059252407fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExNjMwfQ&auto=format&fit=crop&w=643&q=80
         twitter: masjidlabs
 
 # do you want a larger site? change the option below
